@@ -17,4 +17,4 @@ This is a chewBBACA generated cgMLST scheme used for typing *Klebsiella aerogene
 
 ## Citation
 
-Feng Yu, Zong Zhiyong. A cgMLST scheme for *Klebsiella aerogenes* complex species (unpublished). [KAC_cgMLST_scheme](https://github.com/fengyuchengdu/KAC_cgMLST_scheme)
+Feng Yu, Zong Zhiyong. 2024. A cgMLST scheme for *Klebsiella aerogenes* complex species (unpublished). https://github.com/fengyuchengdu/KAC_cgMLST_scheme
