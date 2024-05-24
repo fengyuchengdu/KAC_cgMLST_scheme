@@ -19,4 +19,4 @@ This is a chewBBACA generated cgMLST scheme used for typing *Klebsiella aerogene
 
 Please cite the following work when using this database:
 
-Yu Feng, Yongqiang Yang, Ya Hu, Yuling Xiao, Yi Xie, Li Wei, Hongxia Wen, Linwan Zhang, Alan McNally, Zhiyong Zong. 2024. Population genomics uncovers the global distribution, antimicrobial resistance genes, and key virulence determinants of the opportunistic pathogen *Klebsiella aerogenes* (unpublished). Available at: [https://github.com/fengyuchengdu/KAC_cps_reference](https://github.com/fengyuchengdu/KAC_cps_reference)
+Yu Feng, Yongqiang Yang, Ya Hu, Yuling Xiao, Yi Xie, Li Wei, Hongxia Wen, Linwan Zhang, Alan McNally, Zhiyong Zong. 2024. Population genomics uncovers the global distribution, antimicrobial resistance genes, and key virulence determinants of the opportunistic pathogen *Klebsiella aerogenes* (unpublished). Available at: [https://github.com/fengyuchengdu/KAC_cps_reference](https://github.com/fengyuchengdu/KAC_cgMLST_scheme)
